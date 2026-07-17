@@ -5,12 +5,12 @@ Prototipo di client mobile per Android, sviluppato in React Native ed Expo, per 
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/Home.png" width="200"/></td>
-    <td><img src="docs/screenshots/Mappa.png" width="200"/></td>
+    <td><img src="docs/screenshots/Home.PNG" width="200"/></td>
+    <td><img src="docs/screenshots/Mappa.PNG" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/Lista.png" width="200"/></td>
-    <td><img src="docs/screenshots/Profilo.png" width="200"/></td>
+    <td><img src="docs/screenshots/Lista.PNG" width="200"/></td>
+    <td><img src="docs/screenshots/Profilo.PNG" width="200"/></td>
   </tr>
 </table>
 
